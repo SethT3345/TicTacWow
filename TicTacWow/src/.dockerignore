@@ -1,3 +1,7 @@
+# Don't ignore these
+!package.json
+!package-lock.json
+
 # Logs
 logs
 *.log
@@ -22,3 +26,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
